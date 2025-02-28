@@ -22,10 +22,9 @@ Meu interesse por programação começou na infância, e desde então sigo apaix
 <br><br><br>
 ## Projetos Antigos (Feitos em outros lugares)
 
-<a href="https://www.tinkercad.com/users/2BUXjBKw6Zu?type=circuits" target="blank">Circuitos no Tinkercad(TECPUC)</a>
+<a href="https://www.tinkercad.com/users/2BUXjBKw6Zu?type=circuits" target="blank">Circuitos no Tinkercad(TECPUC)</a><br>
 <br>
-<a href="https://github.com/LucasSotomaiorAPereira/projeto-vision" target="blank">Projeto Vision(TECPUC)</a>
-<br>
+<a href="https://github.com/LucasSotomaiorAPereira/projeto-vision" target="blank">Projeto Vision(TECPUC)</a><br>
 
 
 ## Interesses e Hobbies
