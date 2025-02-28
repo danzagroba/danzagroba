@@ -32,8 +32,8 @@ Meu interesse por programação começou na infância, e desde então sigo apaix
 <br><br>
 
 ## Contato
-- E-Mail: **danielzagcode@gmail.com**<br><br>
+- E-Mail: **danielzagcode@gmail.com**<br>
 
 <a href="https://br.linkedin.com/in/daniel-insaurriaga-zagroba" target="blank">
-<img align="left" alt="Arduino" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img align="left" alt="Arduino" width="60px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
