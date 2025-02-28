@@ -19,7 +19,7 @@ Meu interesse por programação começou na infância, e desde então sigo apaix
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="SFML" width="40px" style="padding-right:10px" src="https://www.sfml-dev.org/download/goodies/sfml-icon.svg" />
 
-<br>
+<br><br><br>
 
 ## Interesses e Hobbies
 
@@ -29,3 +29,11 @@ Meu interesse por programação começou na infância, e desde então sigo apaix
 - 🎼 Escuto bastante estilos musicais e toco às vezes alguns intrumentos;<br>
 - 🏀 Às vezes jogo basquete e vôlei.<br>
 
+<br><br>
+
+## Contato
+- E-Mail: **danielzagcode@gmail.com**<br><br>
+
+<a href="https://br.linkedin.com/in/daniel-insaurriaga-zagroba" target="blank">
+<img align="left" alt="Arduino" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
