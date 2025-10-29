@@ -1,6 +1,6 @@
 ## Daniel Insaurriaga Zagroba 💻🌱
 
-**`Entusiasta de Programação, Tecnologia e Natureza`**
+**`Entusiasta de Programação e Tecnologia**
 <br><br>
 Meu interesse por programação começou na infância, e desde então sigo apaixonado por essa área. Sou formado em Informática pelo TECPUC e atualmente curso Sistemas de Informação na UTFPR. No 2º semestre de 2024, atuei como monitor bolsista de Técnicas de Programação e pretendo continuar contribuindo e ajudando outros desenvolvedores a crescer.
 <br>
